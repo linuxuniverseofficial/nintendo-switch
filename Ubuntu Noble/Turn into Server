@@ -1,0 +1,38 @@
+sudo apt-get remove                   \
+aisleriot                             \
+brltty                                \
+duplicity                             \
+example-content                       \
+gnome-accessibility-themes            \
+gnome-contacts                        \
+gnome-mahjongg                        \
+gnome-mines                           \
+gnome-screensaver                     \
+gnome-sudoku                          \
+gnome-video-effects                   \
+gnome-calculator                      \
+gnome-calendar                        \
+gnome-camera                          \
+gnome-text-editor                     \
+gnome-remote-desktop                  \
+gnome-clocks                          \
+gnome-characters                      \
+gnome-snapshot                        \
+byobu                                 \
+vim*                                 \
+transmission*                        \
+landscape-common                      \
+libreoffice*                         \
+libsane-common                        \
+python3-uno                           \
+rhythmbox*                           \
+sane-utils                            \
+shotwell                              \
+shotwell-common                       \
+telepathy*                           \
+totem*                               \
+printer-driver-*                     \
+thunderbird*                         \
+remmina*
+sudo apt autoremove
+sudo snap remove thunderbird
